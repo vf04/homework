@@ -4,7 +4,7 @@ in this assignment as zip-file via e-mail to jonathan.brachthaeuser@uni-
 tuebingen.de.You can hand in your homework in either english or german.
 
 ## Task 1. Read up Generics in Java. 
-Read the chapter ["Generics (Updated)"](https://docs.oracle.com/javase/tutorial/java/generics/index.html ) up to  "Generic Methods and Bounded Type Parameters" (inclusive). 
+Read the chapter ["Generics (Updated)"](https://docs.oracle.com/javase/tutorial/java/generics/) up to  "Generic Methods and Bounded Type Parameters" (inclusive). 
 
 Summarize the chapter in your own words (~200) and additionally collect
 questions you would like to discuss in the next lab-session.
