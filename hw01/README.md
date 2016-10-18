@@ -1,5 +1,5 @@
 # Homework Assignment 01 -- Software Design & Programming Techniques (WS 2016)
-The deadline for this assignment is Oct 16th, 23:59. Hand
+The deadline for this assignment is Oct 23th, 23:59. Hand
 in this assignment as zip-file via e-mail to jonathan.brachthaeuser@uni-
 tuebingen.de.You can hand in your homework in either english or german.
 
