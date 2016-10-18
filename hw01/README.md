@@ -35,6 +35,6 @@ Integer>>` with the pair as argument.
 Compare the two designs with respect to Extensibility. Consider multiple
 scenarios where you want to
 
-a. add new classes and make them "Showable",
-b. make existing classes "Showable",
-c. adding a second, different implementation of `Showable` for some classes.
+1. add new classes and make them "Showable",
+2. make existing classes "Showable",
+3. adding a second, different implementation of `Showable` for some classes.
